@@ -1,0 +1,7 @@
+<resources>
+        <string name="red_button_text">Red</string>
+        <string name="green_button_text">Green</string>
+        <string name="blue_button_text">Blue</string>
+    <string name="app_name">project</string>
+    <string name="image_content_description">Description of the image</string>
+</resources>
